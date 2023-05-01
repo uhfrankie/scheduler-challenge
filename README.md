@@ -24,5 +24,5 @@ THEN the saved events persist
 </p>
 
 <h3> Live Website </h3>
+https://uhfrankie.github.io/scheduler-challenge/
 
-<h4> Screenshots </h4>
